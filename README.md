@@ -1,5 +1,7 @@
 # memory
 
+A very minimal app built with Vue CLI to explore what happens when we repeatedly mount and unmount a Vue app.
+
 ## Project setup
 ```
 yarn install
